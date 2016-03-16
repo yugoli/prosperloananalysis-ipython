@@ -1,2 +1,2 @@
 # prosperloananalysis-ipython
-#http://nbviewer.jupyter.org/github/yugoli/prosperloananalysis-ipython/blob/master/Prosper.ipynb
+## Looking at loan data in IPython pandas, matplotlib, sklearn, scipy, seaborn
